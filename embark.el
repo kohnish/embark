@@ -7,7 +7,7 @@
 ;; Keywords: convenience
 ;; Version: 1.1
 ;; Homepage: https://github.com/oantolin/embark
-;; Package-Requires: ((emacs "28.1") (compat "30"))
+
 
 ;; This file is part of GNU Emacs.
 
